@@ -2,6 +2,9 @@
 ### Am a Full Stack Developer
 ### 🌱 I’m currently learning Python
 ### 📫 How to reach me: gowthamand7@gmail.com
+
+### ⚡ Fun fact: Any fool can write code that a computer can understand. Only Good programmers write code that humans can understand
+
 <!--
 **gowthamand7/gowthamand7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 
 - 😄 Pronouns: ...
-⚡ Fun fact: Any fool can write code that a computer can understand. Only Good programmers write code that humans can understand
+
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
