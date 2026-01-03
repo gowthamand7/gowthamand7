@@ -112,9 +112,3 @@ Browser extension for password-based encryption for sensitive docs.
 
 ---
 
-### ⭐ README Best Practices (quick)
-- Pin 6 best repos (mix: systems, Go, AWS, AI/automation)
-- Each repo: clear README + architecture diagram + benchmarks + “how to run”
-- Add CI badge + test coverage + release tags
-- Add `topics` (go, aws, kubernetes, distributed-systems, encryption, langchain, etc.)
-
