@@ -87,8 +87,6 @@ Personalized news briefings using crawling + classification + summarization + TT
 ### 🔒 File Encryption Add-on for Google Drive (2023)
 Browser extension for password-based encryption for sensitive docs.
 
-> Want these to shine? Pin the repos and add short demos (GIF/video), screenshots, and a 1-line “why it matters”.
-
 ---
 
 ## 📊 GitHub Stats
